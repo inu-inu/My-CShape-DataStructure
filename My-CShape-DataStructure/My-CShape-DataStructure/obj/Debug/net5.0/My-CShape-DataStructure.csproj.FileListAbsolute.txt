@@ -1,0 +1,16 @@
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.exe
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.deps.json
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.runtimeconfig.json
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.runtimeconfig.dev.json
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.dll
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\bin\Debug\net5.0\My-CShape-DataStructure.pdb
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.csproj.AssemblyReference.cache
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.AssemblyInfoInputs.cache
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.AssemblyInfo.cs
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.csproj.CoreCompileInputs.cache
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.dll
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\ref\My-CShape-DataStructure.dll
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.pdb
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\My-CShape-DataStructure.genruntimeconfig.cache
+D:\Github_programs\My-CShape-DataStructure\My-CShape-DataStructure\My-CShape-DataStructure\obj\Debug\net5.0\refint\My-CShape-DataStructure.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My-CShape-DataStructure", "My-CShape-DataStructure\My-CShape-DataStructure.csproj", "{930924FA-AE71-4F8A-913A-479C173079F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930924FA-AE71-4F8A-913A-479C173079F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930924FA-AE71-4F8A-913A-479C173079F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930924FA-AE71-4F8A-913A-479C173079F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930924FA-AE71-4F8A-913A-479C173079F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BED7F97-C948-4972-84B6-6170A17B0706}
+	EndGlobalSection
+EndGlobal
